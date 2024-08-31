@@ -22,7 +22,6 @@ function Header() {
                             <Link className="dropdown-item" to="/monsters/wyvern-crocs">Wyverns à Crocs</Link>
                             <Link className="dropdown-item" to="/monsters/wyvern-terre">Wyverns de Terre</Link>
                             <Link className="dropdown-item" to="/monsters/wyvern-volante">Wyverns Volantes</Link>
-                            {/* Ajoutez les autres types de monstres ici */}
                         </div>
                     </li>
                     <li className="nav-item dropdown">
@@ -35,7 +34,6 @@ function Header() {
                             <Link className="dropdown-item" to="/zones/coral-highlands">Plateau de Corail</Link>
                             <Link className="dropdown-item" to="/zones/rotten-vale">Val Putride</Link>
                             <Link className="dropdown-item" to="/zones/iceborne">Glacier Eternel (DLC Iceborne)</Link>
-                            {/* Ajoutez les autres zones ici */}
                         </div>
                     </li>
                     <li className="nav-item dropdown">
